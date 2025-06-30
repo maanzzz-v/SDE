@@ -85,10 +85,3 @@ poetry run isort .
 poetry run ruff check .
 ```
 
-## License
-
-[Include license information here]
-
-## Authors
-
-- Manasa <manuvenke06@gmail.com>
